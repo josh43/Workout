@@ -1,0 +1,80 @@
+[
+   {
+      "description": [
+         "QUAD SET",
+         "Tighten your top thigh muscle as you attempt to press the back of your knee downward towards the table."
+      ],
+      "instructions": {
+         "repeat": "15 Times",
+         "hold": "3 Seconds",
+         "complete": "2 Sets",
+         "perform": "1 Time(s) a Day"
+      },
+      "img": {
+         "src": "https://www.hep2go.com/ex_images/022001-023000/image_022532jpg?pgf=5bfa32c5c14f5c071d395e911cfc66fc",
+         "height": "250"
+      }
+   },
+   {
+      "description": [
+         "CONE STEP OVER - FORWARD  RETRO",
+         "Place cones, cups or other small items on the floor and space them apart equally. Leading with the affected leg, step over each cone with a high knee step as shown. Once you get to the end, return to the original position by stepping backward over the cones leading with the affected leg."
+      ],
+      "instructions": {
+         "repeat": "15 Times",
+         "complete": "1 Set",
+         "perform": "2 Time(s) a Day"
+      },
+      "img": {
+         "src": "https://www.hep2go.com/ex_images/007001-008000/image_007343.jpg?pgf=a7ac1568ebf34c12402a2ec262da9716",
+         "height": "250"
+      },
+      "video": "javascript: goPlayVideo_0('55246586', 'vimeo');"
+   },
+   {
+      "description": [
+         "SINGLE LEG STANCE ON STEP - CLOCK REACH SLS",
+         "Begin by standing on a step with both feet. Next, stand on one leg and balance yourself. Then, reach your leg behind and across the stance leg as shown touching your toes to the floor and then return to original position."
+      ],
+      "instructions": {
+         "repeat": "15 Times",
+         "complete": "2 Sets",
+         "perform": "1 Time(s) a Day"
+      },
+      "img": {
+         "src": "https://www.hep2go.com/ex_images/012001-013000/image_012915.jpg?pgf=d6b7d7f61b33c77c8261d21ea77754fc",
+         "height": "250"
+      },
+      "video": "javascript: goPlayVideo_0('67705519', 'vimeo');"
+   },
+   {
+      "description": [
+         "Lateral Lunge Opposite Reach",
+         "Hold a med ball at waist step laterally with one leg and quickly rotate the ball to the opposite side and quickly return your hands and feet to upright"
+      ],
+      "instructions": {
+         "repeat": "15 Times",
+         "complete": "1 Set",
+         "perform": "1 Time(s) a Day"
+      },
+      "img": {
+         "src": "https://www.hep2go.com/ex_images/012001-013000/image_012339.jpg?pgf=d4d6bd671ba0c077578a520a5f4ccb9e",
+         "height": "333"
+      }
+   },
+   {
+      "description": [
+         "PLANK",
+         "While lying face down, lift your body up on your elbows and toes. Try and maintain a straight spine. Do not allow your hips or pelvis on either side to drop."
+      ],
+      "instructions": {
+         "repeat": "3 Times",
+         "hold": "45 Seconds",
+         "perform": "1 Time(s) a Day"
+      },
+      "img": {
+         "src": "https://www.hep2go.com/ex_images/000001-001000/image_000277.jpg?pgf=5fc4c6db38c6dbdb12d0a97b49bd1473",
+         "height": "250"
+      }
+   }
+]
